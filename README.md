@@ -1,6 +1,7 @@
 # **What Can A Healthcare Shift-Matching Platform Tell Us About Gig Economy Labor?**  
 
-#### Disclaimer: All data visualization & calculations performed by Youssef Agour. This case study is based on data provided by a real healthcare firm. The data has been edited to ensure anonymity, where the firm is referred to under a fake alias as 'Health-Exchange' throughout, as per the conditions of data sharing. Code snippets of visualization from jupyter notebooks have been provided, as well as a querying script for the database done in MySQL to derive aggregations. The original data is unavailable for sharing.
+#### Disclaimer
+*All data visualization & calculations performed by Youssef Agour. This case study is based on data provided by a real healthcare firm. The data has been edited to ensure anonymity, where the firm is referred to under a fake alias as 'Health-Exchange' throughout, as per the conditions of data sharing. Code snippets of visualization from jupyter notebooks have been provided, as well as a querying script for the database done in MySQL to derive aggregations. The original data is unavailable for sharing. This paper is not for academic reference.*
 
 ## **Overview**  
 This repository contains a research case study analyzing the labor dynamics of a healthcare shift-matching platform, referred to as **"Health-Exchange"** (a pseudonym for anonymity). The study examines platform data from **July 2024 to January 2025**, exploring how effectively healthcare facilities meet their staffing needs and comparing Health-Exchange's marketplace trends with broader gig economy models like Uber.  
